@@ -1,0 +1,23 @@
+{
+  "models": [
+    {
+      "title": "Iceball",
+      "description": "Segresnet model trained on MRI prostate images.",
+      "subject": "human",
+      "imagingModality": "MRI",
+      "sampleData": [
+        
+      ],
+      "versions": [
+        {
+          "url": "https://github.com/nayanimodugula/AutomatedSegmentation/releases/download/Models/iceball-diffweight-v0.4.0.zip"
+        }
+      ],
+      "segmentationTimeSecGPU": 50.0,
+      "segmentationTimeSecCPU": 80.9,
+      "segmentNames": [
+        "Iceball"
+      ]
+    }
+  ]
+}
