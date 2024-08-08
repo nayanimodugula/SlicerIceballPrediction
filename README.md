@@ -1,2 +1,2 @@
 # SlicerIceballPrediction
-3D Slicer Extension for Iceball Prediction in Cryoablation for Prostate Cancer
+3D Slicer Extension for Iceball Prediction in Prostate Cancer Cryoablation
