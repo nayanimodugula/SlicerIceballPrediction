@@ -10,7 +10,7 @@
       ],
       "versions": [
         {
-          "url": "https://github.com/nayanimodugula/AutomatedSegmentation/releases/download/Models/iceball-diffweight-v0.4.0.zip"
+          "url": "https://github.com/nayanimodugula/SlicerIceballPrediction/releases/download/Models/iceball-prediction-model-v1.0.0.zip"
         }
       ],
       "segmentationTimeSecGPU": 50.0,
